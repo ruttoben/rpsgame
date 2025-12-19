@@ -66,6 +66,6 @@ class RockPaperScissorsGUI:
 
 if __name__ == "__main__":
     root = tk.Tk()
-    root.geometry("350x300")
+    root.geometry("600x400")
     RockPaperScissorsGUI(root)
     root.mainloop()
